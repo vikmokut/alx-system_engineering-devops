@@ -15,3 +15,7 @@ Tools and concepts may include but not limited to:
 - Other web technologies yet to be unveiled as we get further in this course.
 
 Slide in to check out my work, critic and/or look around. I highly welcome contructive criticisms and corrections.
+
+***Author***
+
+[Victor Mokut](https://www.linkedin.com/in/victor-mokut/).
