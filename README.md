@@ -1,4 +1,4 @@
-##DELVING DEEPER INTO DEVOPS & SE
+## DELVING DEEPER INTO DEVOPS & SE
 
 ![image](https://user-images.githubusercontent.com/29519472/188402047-be713fbd-4896-4775-9e30-39920126a285.png)
 
